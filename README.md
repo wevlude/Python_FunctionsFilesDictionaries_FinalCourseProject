@@ -48,3 +48,9 @@ which takes one parameter, a string which represents all data in project_twitter
 
 # resulting_data.cv Çıktısı / Output of resulting_data.cv
 
+<img width="804" alt="Ekran Resmi 2021-01-15 16 28 16" src="https://user-images.githubusercontent.com/64749393/104734097-c4760080-5750-11eb-97c4-0d042ad0b2e1.png">
+
+# Author/Yazar:
+
+Mevlüde Sıla Kazan. 
+silakazan26@gmail.com
