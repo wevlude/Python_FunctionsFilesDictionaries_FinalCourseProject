@@ -42,5 +42,5 @@ which takes one parameter, a string which represents all data in project_twitter
 
 
 # Scatterplot
-
+<img width="454" alt="Ekran Resmi 2021-01-15 16 27 58" src="https://user-images.githubusercontent.com/64749393/104733527-e327c780-574f-11eb-9682-abc479499e1d.png">
 
